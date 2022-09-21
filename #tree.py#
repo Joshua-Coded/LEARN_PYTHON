@@ -1,0 +1,22 @@
+# How tall is the tree : 5
+     #
+    ###
+  #####
+ ######
+#######
+   #
+
+# use 1 while loop and 3 for loops
+# 4 spaces : 1 hash
+# 3 spaces :  3 hashes
+# 2 spaces : 5 hashes
+# 1 space : 7 hashes
+# 0 spaces : 9 hashes
+
+# need to do
+# 1 decrement spaces by 1 each time through the loop
+# 2 increment the hashes by 2 each time through the loop
+# 3 save spaces to the stump by calculating tree height - 1
+# 4 decrement from tree height until it equals 0
+# 5 print spaces and then hashes for each row
+# 6 print stump spaces and  then 1 hash
